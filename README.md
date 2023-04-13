@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vlad Todorov</h1>
-<h3 align="center">iOS Developer w/ 1,5 YOE [🇬🇧 Resident | 🇪🇺 Citizen | 🇨🇦 CUAET]</h3>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/monkey-laptop-coding-miys12p5izw3s11s.gif">
+<h3 align="center">iOS Developer w 1,5 YOE [🇬🇧 Resident | 🇪🇺 Citizen | 🇨🇦 CUAET]</h3>
+<img align="right" alt="Coding" width="350" src="https://gifdb.com/images/high/monkey-laptop-coding-miys12p5izw3s11s.gif">
 
 - 👨🏻‍💻 I’m currently working on [**FinFlow**](https://github.com/Nems0n/FinFlowApp)
 
