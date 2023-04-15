@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vlad Todorov</h1>
-<h3 align="center">iOS Developer with several YOE [ 🇬🇧 Resident | 🇪🇺 Citizen | 🇨🇦 CUAET ]</h3>
+<h3 align="center">iOS Developer w ~2 YOE [ 🇬🇧 Resident | 🇪🇺 Citizen | 🇨🇦 CUAET ]</h3>
 <br></br>
 <img align="right" alt="Coding" width="360" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif">
 
